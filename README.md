@@ -53,7 +53,7 @@ Puedes ver mi portfolio y demos en: **https://lisanti.netlify.app/**
 ---
 
 ## 📫 Contacto
-- ✉️ Email: **tuemail@example.com**  
+- ✉️ Email: **ariellisanti22@gmail.com**  
 - 🔗 Portfolio: https://lisanti.netlify.app/  
 - 🔗 LinkedIn: https://www.linkedin.com/in/gonzalo-lisanti-538550273/  
 - 🐙 GitHub: https://github.com/GonzaloLisanti
